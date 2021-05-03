@@ -1,68 +1,68 @@
-ID,CARD,RARITY,AMO+,DMG*,RLD+,RLD*,ATKSPD*,BULLETSPEED*,BOUNCE+,BULLETS+,SPRD+,HP*,LFST+,BLK+,BLK*,DECRIPTION,STATS,STATS,STATS,STATS,CARD
-0,ABYSSAL COUNTDOWN,Rare,,,,,,,,,,,,,,Stand still to summon dark powers,,,,,ABYSSAL COUNTDOWN
-1,BARRAGE,Uncommon,5,0.3,0.25,,,,,4,0.13,,,,,Fire many bullets at the same time,+4 Bullets,+5 Ammo,-70% DMG,+0.25s Reload time,BARRAGE
-2,BIG BULLET,Common,,,0.25,,,,,,,,,,,Bigger bullets,+0.25s Reload time,,,,BIG BULLET
-3,BOMBS AWAY,Uncommon,,,,,,,,,,1.3,,0.25,,Spawn a bunch of small bombs around you when you block,+30% HP,+0.25s Block cooldown,,,BOMBS AWAY
-4,BOUNCY,Uncommon,,1.25,0.25,,,,2,,,,,,,,+2 Bullet bounces,+25% DMG,+0.25s Reload time,,BOUNCY
-5,BRAWLER,Uncommon,,,,,,,,,,,,,,+200% HP 3s after dealing DMG,,,,,BRAWLER
-6,BUCKSHOT,Uncommon,5,0.4,0.25,,,3.5,,4,0.5,,,,,Adds a shotgun vibe to your attack,+4  Bullets,+5 AMMO,-60% DMG,+0.25s Reload time,BUCKSHOT
-7,BURST,Common,3,0.6,0.25,,,,,,0.04,,,,,Multiple bullets are fired in a sequence,+2 Bullets,+3 AMMO,-60% DMG,+0.25s Reload time,BURST
-8,CAREFUL PLANNING,Uncommon,,2,0.5,,2.5,,,,,,,,,,+100% DMG,-150% ATKSPD,+0.5s Reload time,,CAREFUL PLANNING
-9,CHASE,Uncommon,,,,,,,,,,,,,,+60% movement when moving towards the opponent,+30% Health,,,,CHASE
-10,CHILLING PRESENCE,Rare,,,,,,,,,,1.25,,,,Slightly slow nearby enemies,+25% HP,,,,CHILLING PRESENCE
-11,COLD BULLETS,Common,,,0.25,,,,,,,,,,,,+70% Bullet slow,+0.25s Reload time,,,COLD BULLETS
-12,COMBINE,Common,-2,2,0.5,,,,,,,,,,,,+100% DMG,-2 AMMO,+0.5s Reload time,,COMBINE
-13,DAZZLE,Common,,,0.25,,,,,,,,,,,Bullets stun the oponent multiple times,+0.25s Reload time,,,,DAZZLE
-14,DECAY,Uncommon,,,,,,,,,,1.5,,,,Damage done to you is dealt over 4 seconds,+50% HP,,,,DECAY
-15,DEFENDER,Uncommon,,,,,,,,,,1.3,,,0.7,,-30% Block cooldown,+30% HP,,,DEFENDER
-16,Demonic pact,Rare,9,,0.25,,0.025,,,,,,,,,Shooting costs 10HP Removes shooting cooldown,+9 Bullets,+2 Splash DMG,+0.25s Reload time,,Demonic pact
-17,DRILL AMMO,Rare,,,0.25,,,,,,,,,,,,+7m Bullets drill through walls,+0.25s Reload time,,,DRILL AMMO
-18,ECHO,Uncommon,,,,,,,,,,1.3,,,,Blocking triggers another delayed block,+30% HP,+0.25s Block cooldown,,,ECHO
-19,EMP,Uncommon,,,,,,,,,,1.3,,0.25,,Blocking spawns a ring of slowing projectiles,+30% HP,+0.25s Block cooldown,,,EMP
-20,EMPOWER,Uncommon,,,,,,,,,,,,0.25,,Blocking increases the damage and speed of your next shot. The shot also triggers any on block abilities where it lands.,+0.25s Block cooldown,,,,EMPOWER
-21,EXPLOSIVE BULLET,Uncommon,,,0.25,,2,,,,,,,,,Bullet explodes on impact,-100% ATKSPD,+0.25s Reload time,,,EXPLOSIVE BULLET
-22,FASTBALL,Common,,,0.25,,1.5,3.5,,,,,,,,,+250% Bullet speed ,-50% ATKSPD,+0.25s Reload time,,FASTBALL
-23,Fast forward,Common,,,,0.7,,,,,,,,,,Bullets keep the default trajectory,+100% Projectile speed,+30% Reload speed,,,Fast forward
-24,FROST SLAM,Common,,,,,,,,,,1.3,,0.25,,Slows enemies around you when you block,+30% HP,+0.25s Block cooldown,,,FROST SLAM
-25,GLASS CANNON,Uncommon,,2,0.25,,,,,,,0.5,,,,,+100% DMG,-100% HP,+0.25s Reload time,,GLASS CANNON
-26,GROW,Uncommon,,,0.25,,,,,,,,,,,Bullets gets more damage over time when travelling,+0.25s Reload time,,,,GROW
-27,Healing field,Common,,,,,,,,,,1.3,,0.25,,Blocking creates a healing field,+30% HP,+0.25s Block cooldown,,,Healing field
-28,HOMING,Uncommon,,0.75,,,1.5,0.7,,,,,,,,Bullets home towards visible targets,-25% DMG,-50% ATKSPD,+0.25s Reload time,,HOMING
-29,HUGE,Common,,,,,,,,,,1.8,,,,,+80% HP,,,,HUGE
-30,Implode,Uncommon,,,,,,,,,,1.5,,0.25,,Blocking pulls enemies towards you,+50% HP,+0.25s Block cooldown,,,Implode
-31,LEECH,Common,,,,,,,,,,1.3,0.75,,,,+75% Life steal,+30% HP,,,LEECH
-32,LIFESTEALER,Rare,,,,,,,,,,1.25,,,,Steal hp from your opponent when near ,+25% HP,,,,LIFESTEALER
-33,MAYHEM,Uncommon,,0.85,0.5,,,,5,,,,,,,,+5 Bullet bounces,-15% DMG,+0.5s Reload time,,MAYHEM
-34,OVERPOWER,Uncommon,,,,,,,,,,1.3,,0.25,,Deal 15% of your max HP to enemies around you when you block,+30% HP,+0.25s Block cooldown,,,OVERPOWER
-35,PARASITE,Uncommon,,1.25,0.25,,,,,,,1.25,0.5,,,Bullets deal damage over 5 seconds,+50% Life steal,+25% HP,+25% DMG,+0.25s Reload time,PARASITE
-36,PHOENIX,Rare,,,,,,,,,,0.65,,,,Respawn once on death,-35% HP,,,,PHOENIX
-37,POISON,Common,-1,1.6,,0.7,,,,,,,,,,Bullets deal damage over 3 seconds,+70% DMG,+30% Reload speed,-1 Bullet,,POISON
-38,PRISITNE PERSEVERENCE,Rare,,,,,,,,,,,,,,+400% HP when above 90% HP,,,,,PRISITNE PERSEVERENCE
-39,QUICK RELOAD,Uncommon,,,,0.3,,,,,,,,,,,-70% Reload time,,,,QUICK RELOAD
-40,QUICK SHOT,Common,,,0.25,,,2.5,,,,,,,,,+150% Bullet speed,+0.25s Reload time,,,QUICK SHOT
-41,RADAR SHOT,Uncommon,,,,,,,,,,1.3,,0.25,,Blocking scans the area for enemies. You automatically shoot any enemy found.,+30% HP,+0.25s Block cooldown,,,RADAR SHOT
-42,RADIANCE,Rare,,,,,,,,,,1.3,,,,Spawn damaging sun waves when reloading. The rate increases during the reload sequence.,+30% HP,,,,RADIANCE
-43,Refresh,Rare,,,,,,,,,,,,,,You get block back when deal damage,,,,,Refresh
-44,REMOTE,Rare,,,0.25,,,0.6,,,,,,,,Steer bullet with right stick / mouse,-40% Bullet speed,+0.25s Reload time,,,REMOTE
-45,RICCOCHET,Uncommon,,,0.25,,0.75,,2,,,,,,,Bullets lose half of their speed when they bounce,+2 Bullet bounces,+25% ATKSPD,+0.25s Reload time,,RICCOCHET
-46,SAW,Rare,,,,,,,,,,1.3,,0.25,,Blocking spawns a saw around you for a short while,+30% HP,+0.25s Block cooldown,,,SAW
-47,SCAVENGER,Uncommon,,,0.5,,,,,,,,,,,Dealing damage reloads your weapon,+0.5s Reload time,,,,SCAVENGER
-48,SHIELD CHARGE,Uncommon,,,,,,,,,,,,0.25,,Blocking launches you forward and gives you a second automatic block upon ending the charge,+0.25s Block cooldown,,,,SHIELD CHARGE
-49,SHIELDS UP,Rare,,,0.5,,,,,,,,,0.5,,Firing your last bullet triggers a block. Disabled continious reloading.,+0.5s Reload time,+0.5 Block cooldown,,,SHIELDS UP
-50,Shockwave,Uncommon,,,,,,,,,,1.5,,0.25,,Blocking pushes enemies away,+50% HP,+0.25s Block cooldown,,,Shockwave
-51,SILENCE,Uncommon,,,,,,,,,,1.25,,0.25,,Blocking silences enemies nearby,+25% HP,+0.25s Block cooldown,,,SILENCE
-52,SNEAKY,Uncommon,,,0.25,,,,,,,,,,,Bullets avoid the ground,+0.25s Reload time,,,,SNEAKY
-53,SPRAY,Uncommon,12,0.25,0.25,,0.09090909,,,,0.1,,,,,,+1000% ATKSPD,+12 AMMO,-75% DMG,+0.25s Reload time,SPRAY
-54,STATIC FIELD,Uncommon,,,,,,,,,,,,0.25,,Blocking creates a field that slows and deals damage,+0.25s Block cooldown,,,,STATIC FIELD
-55,STEADY SHOT,Common,,,0.25,,,2,,,,1.4,,,,,+40% HP,+100% Bullet speed,+0.25s Reload time,,STEADY SHOT
-56,SUPERNOVA,Rare,,,,,,,,,,1.5,,0.5,,Spawns a field that pulls enemies in and stuns after a while,+50% HP,+0.5s Block cooldown,,,SUPERNOVA
-57,TACTICAL RELOAD,Rare,,,,,,,,,,,,0.25,,Blocking reloads your weapon ,+0.25s Block cooldown,,,,TACTICAL RELOAD
-58,TANK,Common,,,0.5,,1.25,,,,,2,,,,,+100% HP,-25% ATKSPD,+0.5s Reload time,,TANK
-59,Target BOUNCE,Uncommon,,0.8,0.25,,,,1,,,,,,,Bullets aim for visible targets when bouncing,+1 Bullet bounce,-20% DMG,+0.25s Reload time,,Target BOUNCE
-60,TASTE OF BLOOD,Uncommon,,,,,,,,,,,0.3,,,+50% movement speed 3s after dealing DMG,+30% Life steal,,,,TASTE OF BLOOD
-61,TELEPORT,Rare,,,,,,,,,,,,,0.7,Blocking teleports you forward,-30% Block cooldown,,,,TELEPORT
-62,THRUSTER,Uncommon,,,0.25,,,,,,,,,,,Bullets have thrusters that push targets,+0.25s Reload time,,,,THRUSTER
-63,TIMED DETONATION,Common,,0.85,0.25,,,,,,,,,,,Bullets spawn bombs that explode after half a second,-15% DMG,+0.25s Reload time,,,TIMED DETONATION
-64,TOXIC CLOUD,Rare,,0.75,0.5,,1.2,,,,,,,,,Bullets spawn a poison cloud on impact.  Clouds deal damage and slow.,-20% Attack Speed,+0.5s Reload time,,,TOXIC CLOUD
-65,TRICKSTER,Rare,,0.8,0.5,,,,2,,,,,,,Bullets deal 80% more DMG per bounce,+2 Bullet bounces,-20% DMG,+0.5s Reload time,,TRICKSTER
-66,WIND UP,Common,,1.6,0.5,,2,2,,,,,,,,,+100% Bullet speed,+60% DMG,-100% ATKSPD,+0.5s Reload time,WIND UP
+ID,CARD,RARITY,CLASS,AMO+,DMG*,RLD+,RLD*,ATKSPD*,BULLETSPEED*,BOUNCE+,BULLETS+,SPRD+,HP*,LFST+,BLK+,BLK*,DECRIPTION,STATS,STATS,STATS,STATS,CARD
+0,ABYSSAL COUNTDOWN,Rare,DARK,,,,,,,,,,,,,,Stand still to summon dark powers,,,,,ABYSSAL COUNTDOWN
+1,BARRAGE,Uncommon,BASIC,5,0.3,0.25,,,,,4,0.13,,,,,Fire many bullets at the same time,+4 Bullets,+5 Ammo,-70% DMG,+0.25s Reload time,BARRAGE
+2,BIG BULLET,Common,,,,0.25,,,,,,,,,,,Bigger bullets,+0.25s Reload time,,,,BIG BULLET
+3,BOMBS AWAY,Uncommon,CHAOS,,,,,,,,,,1.3,,0.25,,Spawn a bunch of small bombs around you when you block,+30% HP,+0.25s Block cooldown,,,BOMBS AWAY
+4,BOUNCY,Uncommon,CHAOS,,1.25,0.25,,,,2,,,,,,,,+2 Bullet bounces,+25% DMG,+0.25s Reload time,,BOUNCY
+5,BRAWLER,Uncommon,MELEE,,,,,,,,,,,,,,+200% HP 3s after dealing DMG,,,,,BRAWLER
+6,BUCKSHOT,Uncommon,BASIC,5,0.4,0.25,,,3.5,,4,0.5,,,,,Adds a shotgun vibe to your attack,+4  Bullets,+5 AMMO,-60% DMG,+0.25s Reload time,BUCKSHOT
+7,BURST,Common,BASIC,3,0.6,0.25,,,,,,0.04,,,,,Multiple bullets are fired in a sequence,+2 Bullets,+3 AMMO,-60% DMG,+0.25s Reload time,BURST
+8,CAREFUL PLANNING,Uncommon,BASIC,,2,0.5,,2.5,,,,,,,,,,+100% DMG,-150% ATKSPD,+0.5s Reload time,,CAREFUL PLANNING
+9,CHASE,Uncommon,,,,,,,,,,,,,,,+60% movement when moving towards the opponent,+30% Health,,,,CHASE
+10,CHILLING PRESENCE,Rare,FROST,,,,,,,,,,1.25,,,,Slightly slow nearby enemies,+25% HP,,,,CHILLING PRESENCE
+11,COLD BULLETS,Common,FROST,,,0.25,,,,,,,,,,,,+70% Bullet slow,+0.25s Reload time,,,COLD BULLETS
+12,COMBINE,Common,BASIC,-2,2,0.5,,,,,,,,,,,,+100% DMG,-2 AMMO,+0.5s Reload time,,COMBINE
+13,DAZZLE,Common,,,,0.25,,,,,,,,,,,Bullets stun the oponent multiple times,+0.25s Reload time,,,,DAZZLE
+14,DECAY,Uncommon,DARK,,,,,,,,,,1.5,,,,Damage done to you is dealt over 4 seconds,+50% HP,,,,DECAY
+15,DEFENDER,Uncommon,MELEE,,,,,,,,,,1.3,,,0.7,,-30% Block cooldown,+30% HP,,,DEFENDER
+16,Demonic pact,Rare,DARK,9,,0.25,,0.025,,,,,,,,,Shooting costs 10HP Removes shooting cooldown,+9 Bullets,+2 Splash DMG,+0.25s Reload time,,Demonic pact
+17,DRILL AMMO,Rare,SPECIAL,,,0.25,,,,,,,,,,,,+7m Bullets drill through walls,+0.25s Reload time,,,DRILL AMMO
+18,ECHO,Uncommon,MELEE,,,,,,,,,,1.3,,,,Blocking triggers another delayed block,+30% HP,+0.25s Block cooldown,,,ECHO
+19,EMP,Uncommon,,,,,,,,,,,1.3,,0.25,,Blocking spawns a ring of slowing projectiles,+30% HP,+0.25s Block cooldown,,,EMP
+20,EMPOWER,Uncommon,,,,,,,,,,,,,0.25,,Blocking increases the damage and speed of your next shot. The shot also triggers any on block abilities where it lands.,+0.25s Block cooldown,,,,EMPOWER
+21,EXPLOSIVE BULLET,Uncommon,,,,0.25,,2,,,,,,,,,Bullet explodes on impact,-100% ATKSPD,+0.25s Reload time,,,EXPLOSIVE BULLET
+22,FASTBALL,Common,BASIC,,,0.25,,1.5,3.5,,,,,,,,,+250% Bullet speed,-50% ATKSPD,+0.25s Reload time,,FASTBALL
+23,Fast forward,Common,BASIC,,,,0.7,,,,,,,,,,Bullets keep the default trajectory,+100% Projectile speed,+30% Reload speed,,,Fast forward
+24,FROST SLAM,Common,FROST,,,,,,,,,,1.3,,0.25,,Slows enemies around you when you block,+30% HP,+0.25s Block cooldown,,,FROST SLAM
+25,GLASS CANNON,Uncommon,BASIC,,2,0.25,,,,,,,0.5,,,,,+100% DMG,-100% HP,+0.25s Reload time,,GLASS CANNON
+26,GROW,Uncommon,BASIC,,,0.25,,,,,,,,,,,Bullets gets more damage over time when travelling,+0.25s Reload time,,,,GROW
+27,Healing field,Common,,,,,,,,,,,1.3,,0.25,,Blocking creates a healing field,+30% HP,+0.25s Block cooldown,,,Healing field
+28,HOMING,Uncommon,SPECIAL,,0.75,,,1.5,0.7,,,,,,,,Bullets home towards visible targets,-25% DMG,-50% ATKSPD,+0.25s Reload time,,HOMING
+29,HUGE,Common,MELEE,,,,,,,,,,1.8,,,,,+80% HP,,,,HUGE
+30,Implode,Uncommon,,,,,,,,,,,1.5,,0.25,,Blocking pulls enemies towards you,+50% HP,+0.25s Block cooldown,,,Implode
+31,LEECH,Common,DARK,,,,,,,,,,1.3,0.75,,,,+75% Life steal,+30% HP,,,LEECH
+32,LIFESTEALER,Rare,DARK,,,,,,,,,,1.25,,,,Steal hp from your opponent when near ,+25% HP,,,,LIFESTEALER
+33,MAYHEM,Uncommon,CHAOS,,0.85,0.5,,,,5,,,,,,,,+5 Bullet bounces,-15% DMG,+0.5s Reload time,,MAYHEM
+34,OVERPOWER,Uncommon,,,,,,,,,,,1.3,,0.25,,Deal 15% of your max HP to enemies around you when you block,+30% HP,+0.25s Block cooldown,,,OVERPOWER
+35,PARASITE,Uncommon,DARK,,1.25,0.25,,,,,,,1.25,0.5,,,Bullets deal damage over 5 seconds,+50% Life steal,+25% HP,+25% DMG,+0.25s Reload time,PARASITE
+36,PHOENIX,Rare,MELEE,,,,,,,,,,0.65,,,,Respawn once on death,-35% HP,,,,PHOENIX
+37,POISON,Common,POISON,-1,1.6,,0.7,,,,,,,,,,Bullets deal damage over 3 seconds,+70% DMG,+30% Reload speed,-1 Bullet,,POISON
+38,PRISITNE PERSEVERENCE,Rare,MELEE,,,,,,,,,,,,,,+400% HP when above 90% HP,,,,,PRISITNE PERSEVERENCE
+39,QUICK RELOAD,Uncommon,BASIC,,,,0.3,,,,,,,,,,,-70% Reload time,,,,QUICK RELOAD
+40,QUICK SHOT,Common,BASIC,,,0.25,,,2.5,,,,,,,,,+150% Bullet speed,+0.25s Reload time,,,QUICK SHOT
+41,RADAR SHOT,Uncommon,SPECIAL,,,,,,,,,,1.3,,0.25,,Blocking scans the area for enemies. You automatically shoot any enemy found.,+30% HP,+0.25s Block cooldown,,,RADAR SHOT
+42,RADIANCE,Rare,,,,,,,,,,,1.3,,,,Spawn damaging sun waves when reloading. The rate increases during the reload sequence.,+30% HP,,,,RADIANCE
+43,Refresh,Rare,,,,,,,,,,,,,,,You get block back when deal damage,,,,,Refresh
+44,REMOTE,Rare,SPECIAL,,,0.25,,,0.6,,,,,,,,Steer bullet with right stick / mouse,-40% Bullet speed,+0.25s Reload time,,,REMOTE
+45,RICCOCHET,Uncommon,,,,0.25,,0.75,,2,,,,,,,Bullets lose half of their speed when they bounce,+2 Bullet bounces,+25% ATKSPD,+0.25s Reload time,,RICCOCHET
+46,SAW,Rare,,,,,,,,,,,1.3,,0.25,,Blocking spawns a saw around you for a short while,+30% HP,+0.25s Block cooldown,,,SAW
+47,SCAVENGER,Uncommon,,,,0.5,,,,,,,,,,,Dealing damage reloads your weapon,+0.5s Reload time,,,,SCAVENGER
+48,SHIELD CHARGE,Uncommon,MELEE,,,,,,,,,,,,0.25,,Blocking launches you forward and gives you a second automatic block upon ending the charge,+0.25s Block cooldown,,,,SHIELD CHARGE
+49,SHIELDS UP,Rare,,,,0.5,,,,,,,,,0.5,,Firing your last bullet triggers a block. Disabled continious reloading.,+0.5s Reload time,+0.5 Block cooldown,,,SHIELDS UP
+50,Shockwave,Uncommon,,,,,,,,,,,1.5,,0.25,,Blocking pushes enemies away,+50% HP,+0.25s Block cooldown,,,Shockwave
+51,SILENCE,Uncommon,,,,,,,,,,,1.25,,0.25,,Blocking silences enemies nearby,+25% HP,+0.25s Block cooldown,,,SILENCE
+52,SNEAKY,Uncommon,SPECIAL,,,0.25,,,,,,,,,,,Bullets avoid the ground,+0.25s Reload time,,,,SNEAKY
+53,SPRAY,Uncommon,BASIC,12,0.25,0.25,,0.09090909,,,,0.1,,,,,,+1000% ATKSPD,+12 AMMO,-75% DMG,+0.25s Reload time,SPRAY
+54,STATIC FIELD,Uncommon,FROST,,,,,,,,,,,,0.25,,Blocking creates a field that slows and deals damage,+0.25s Block cooldown,,,,STATIC FIELD
+55,STEADY SHOT,Common,BASIC,,,0.25,,,2,,,,1.4,,,,,+40% HP,+100% Bullet speed,+0.25s Reload time,,STEADY SHOT
+56,SUPERNOVA,Rare,,,,,,,,,,,1.5,,0.5,,Spawns a field that pulls enemies in and stuns after a while,+50% HP,+0.5s Block cooldown,,,SUPERNOVA
+57,TACTICAL RELOAD,Rare,,,,,,,,,,,,,0.25,,Blocking reloads your weapon ,+0.25s Block cooldown,,,,TACTICAL RELOAD
+58,TANK,Common,MELEE,,,0.5,,1.25,,,,,2,,,,,+100% HP,-25% ATKSPD,+0.5s Reload time,,TANK
+59,Target BOUNCE,Uncommon,SPECIAL,,0.8,0.25,,,,1,,,,,,,Bullets aim for visible targets when bouncing,+1 Bullet bounce,-20% DMG,+0.25s Reload time,,Target BOUNCE
+60,TASTE OF BLOOD,Uncommon,DARK,,,,,,,,,,,0.3,,,+50% movement speed 3s after dealing DMG,+30% Life steal,,,,TASTE OF BLOOD
+61,TELEPORT,Rare,,,,,,,,,,,,,,0.7,Blocking teleports you forward,-30% Block cooldown,,,,TELEPORT
+62,THRUSTER,Uncommon,SPECIAL,,,0.25,,,,,,,,,,,Bullets have thrusters that push targets,+0.25s Reload time,,,,THRUSTER
+63,TIMED DETONATION,Common,CHAOS,,0.85,0.25,,,,,,,,,,,Bullets spawn bombs that explode after half a second,-15% DMG,+0.25s Reload time,,,TIMED DETONATION
+64,TOXIC CLOUD,Rare,POISON,,0.75,0.5,,1.2,,,,,,,,,Bullets spawn a poison cloud on impact.  Clouds deal damage and slow.,-20% Attack Speed,+0.5s Reload time,,,TOXIC CLOUD
+65,TRICKSTER,Rare,CHAOS,,0.8,0.5,,,,2,,,,,,,Bullets deal 80% more DMG per bounce,+2 Bullet bounces,-20% DMG,+0.5s Reload time,,TRICKSTER
+66,WIND UP,Common,BASIC,,1.6,0.5,,2,2,,,,,,,,,+100% Bullet speed,+60% DMG,-100% ATKSPD,+0.5s Reload time,WIND UP
