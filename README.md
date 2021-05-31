@@ -12,6 +12,10 @@ than download any of the mods into ROUNDS\BepInEx\plugins
 
 you can toggle the mods by hitting F1 while in game and hitting the mod name
 
+## stat.csv
+
+its a csv not a mod
+
 ## art.dll
 
 on by default
