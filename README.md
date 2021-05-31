@@ -33,3 +33,8 @@ shows stats in multiplication form and your current value of said stat
 ## tourny.dll
 
 allows for the host to be a specator for tournys
+
+## other mods
+
+some other mods can be found in https://discord.gg/mGfsTvc53v https://discord.gg/Bf94QuB3pT
+
