@@ -1,6 +1,6 @@
 ## installation
 
-download the latest version of bepinex from: https://github.com/BepInEx/BepInEx/releases
+download the latest x64 version of bepinex from: https://github.com/BepInEx/BepInEx/releases
 
 and extract it all in rounds root directory (if you dont know where it is right click on rounds in steam than properties than local files than browse)
 
