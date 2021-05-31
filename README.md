@@ -1,4 +1,4 @@
-##installation
+## installation
 
 download the latest version of bepinex from:
 
