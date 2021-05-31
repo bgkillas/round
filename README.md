@@ -24,8 +24,6 @@ disables screenshake, chromatic abberation,light shake, and arthandler
 
 ## spawn.dll
 
-both people need it toggled on
-
 type a number/card name than;hold right control and hit enter to change map by id or hold left control and hit enter to spawn cards even in online
 
 ## card.dll
@@ -41,6 +39,10 @@ allows for the host to be a specator for tournys
 ## rounds.dll
 
 1000 rounds
+
+## breakmap.dll
+
+destroys the part of the map you shoot at
 
 ## other mods
 
