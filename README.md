@@ -46,7 +46,5 @@ destroys the part of the map you shoot at
 
 ## other mods
 
-less "discount" mods can be found over at https://discord.gg/mGfsTvc53v
-
 my server is at https://discord.gg/Bf94QuB3pT
 
