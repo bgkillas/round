@@ -38,6 +38,10 @@ shows stats in multiplication form and your current value of said stat
 
 allows for the host to be a specator for tournys
 
+## rounds.dll
+
+1000 rounds
+
 ## other mods
 
 less "discount" mods can be found over at https://discord.gg/mGfsTvc53v
