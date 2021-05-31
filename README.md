@@ -14,7 +14,7 @@ download both dlls and put them into ROUNDS\BepInEx\plugins
 
 than download any of the mods into ROUNDS\BepInEx\plugins
 
-you can toggle the mods by hitting f1 while in game and hitting the mod name
+you can toggle the mods by hitting F1 while in game and hitting the mod name
 
 ## art.dll
 
