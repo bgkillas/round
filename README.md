@@ -36,5 +36,7 @@ allows for the host to be a specator for tournys
 
 ## other mods
 
-some other mods can be found in https://discord.gg/mGfsTvc53v https://discord.gg/Bf94QuB3pT
+less "discount" mods can be found over at https://discord.gg/mGfsTvc53v
+
+my server is at https://discord.gg/Bf94QuB3pT
 
