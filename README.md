@@ -26,7 +26,7 @@ disables screenshake, chromatic abberation,light shake, and arthandler
 
 both people need it toggled on
 
-type a number/card name than;right control to change map by id; left control to spawn cards even in online
+type a number/card name than;hold right control and hit enter to change map by id or hold left control and hit enter to spawn cards even in online
 
 ## card.dll
 
