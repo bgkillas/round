@@ -1,50 +1,46 @@
-## installation
+# installation
 
-download the latest x64 version of bepinex from: https://github.com/BepInEx/BepInEx/releases
+- find your Rounds root install directory and copy/remember the path. the easiest method is to use steam. right click on the game -> "Manage Game" -> "Browse Local Files"
+- download the latest x64 version of BepInEx (https://github.com/BepInEx/BepInEx/releases)
+- extract BepInEx to your Rounds root directory and make sure this directory exists: `ROUNDS\BepInEx\plugins`
+- download both dll files from the latest release of UnboundLib (https://github.com/willis81808/UnboundLib/releases)
+- place both dll files from UnboundLib into `ROUNDS\BepInEx\plugins`
+- download any/all dll files in this repo and put them in `ROUNDS\BepInEx\plugins`
 
-and extract it all in rounds root directory (if you dont know where it is right click on rounds in steam than properties than local files than browse)
+# usage
+toggle the mod menu by hitting F1. click the mod names to enable/disable them.
 
-after that you need to install dependencys for the mods which you can get from: https://github.com/willis81808/UnboundLib/releases
+# ok but what do these files do?
 
-download both dlls and put them into ROUNDS\BepInEx\plugins
-
-than download any of the mods into ROUNDS\BepInEx\plugins
-
-you can toggle the mods by hitting F1 while in game and hitting the mod name
-
-## stat.csv
-
+### stat.csv
 its a csv not a mod
 
-## art.dll
-
-on by default
+### art.dll
+**default: on**
 
 disables screenshake, chromatic abberation,light shake, and arthandler
 
-## spawn.dll
+### spawn.dll
+**default: off**
 
 type a number/card name than;hold right control and hit enter to change map by id or hold left control and hit enter to spawn cards even in online
 
-## card.dll
-
+### card.dll
 on by default
 
 shows stats in multiplication form and your current value of said stat
 
-## tourny.dll
-
+### tourny.dll
 allows for the host to be a specator for tournys
 
-## rounds.dll
-
+### rounds.dll
 1000 rounds
 
-## breakmap.dll
+### breakmap.dll
 
 destroys the part of the map you shoot at
 
-## other mods
+## other mods / suggestions
 
 my server is at https://discord.gg/Bf94QuB3pT
 
