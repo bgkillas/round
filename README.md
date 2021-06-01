@@ -29,6 +29,8 @@ shows stats in multiplication form and your current value of said stat
 
 type a number/card name than;hold right control and hit enter to change map by id or hold left control and hit enter to spawn cards even in online
 
+both players need to change map at the same time for it to work
+
 ### tourny.dll
 allows for the host to be a specator for tournys
 
