@@ -1,6 +1,6 @@
 # installation
 
-- find your Rounds root install directory and copy/remember the path. the easiest method is to use steam. right click on the game -> "Manage Game" -> "Browse Local Files"
+- find your Rounds root install directory and copy/remember the path. the easiest method is to use steam. right click on the game -> "Properties" -> "Local Files" -> "Browse"
 - download the latest x64 version of BepInEx (https://github.com/BepInEx/BepInEx/releases)
 - extract BepInEx to your Rounds root directory and make sure this directory exists: `ROUNDS\BepInEx\plugins`
 - download both dll files from the latest release of UnboundLib (https://github.com/willis81808/UnboundLib/releases)
