@@ -13,7 +13,7 @@ toggle the mod menu by hitting F1. click the mod names to enable/disable them.
 # ok but what do these files do?
 
 ### stat.csv
-its a csv not a mod
+its a spreadsheet of the card stats not a mod
 
 ### art.dll
 **default: on**
