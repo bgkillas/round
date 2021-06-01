@@ -20,15 +20,14 @@ its a csv not a mod
 
 disables screenshake, chromatic abberation,light shake, and arthandler
 
-### spawn.dll
-**default: off**
-
-type a number/card name than;hold right control and hit enter to change map by id or hold left control and hit enter to spawn cards even in online
-
 ### card.dll
-on by default
+**default: on**
 
 shows stats in multiplication form and your current value of said stat
+
+### spawn.dll
+
+type a number/card name than;hold right control and hit enter to change map by id or hold left control and hit enter to spawn cards even in online
 
 ### tourny.dll
 allows for the host to be a specator for tournys
