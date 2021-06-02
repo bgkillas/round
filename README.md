@@ -1,9 +1,9 @@
 # installation
 
 - find your Rounds root install directory and copy/remember the path. the easiest method is to use steam. right click on the game -> "Properties" -> "Local Files" -> "Browse"
-- download the latest x64 version of BepInEx (https://github.com/BepInEx/BepInEx/releases)
+- download the latest x64 version of **[BepInEx](https://github.com/BepInEx/BepInEx/releases)**
 - extract BepInEx to your Rounds root directory and make sure this directory exists: `ROUNDS\BepInEx\plugins`
-- download both dll files from the latest release of UnboundLib (https://github.com/willis81808/UnboundLib/releases)
+- download both dll files from the latest release of **[UnboundLib](https://github.com/willis81808/UnboundLib/releases)**
 - place both dll files from UnboundLib into `ROUNDS\BepInEx\plugins`
 - download any/all dll files in this repo and put them in `ROUNDS\BepInEx\plugins`
 
@@ -45,3 +45,6 @@ destroys the part of the map you shoot at
 
 my server is at https://discord.gg/Bf94QuB3pT
 
+**[2v2](https://github.com/olavim/RoundsWithFriends/releases)**
+
+**[FFA](https://github.com/RoGreat/FFAMod/releases)**
