@@ -43,7 +43,9 @@ destroys the part of the map you shoot at
 
 ## other mods / suggestions
 
-my server is at https://discord.gg/Bf94QuB3pT
+**[my server](https://discord.gg/Bf94QuB3pT)**
+
+**[other server](https://discord.gg/mGfsTvc53v)**
 
 **[2v2](https://github.com/olavim/RoundsWithFriends/releases)**
 
