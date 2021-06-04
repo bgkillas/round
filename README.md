@@ -25,8 +25,6 @@ disables screenshake, chromatic abberation,light shake, and arthandler
 
 shows stats in multiplication form and your current value of said stat
 
-to choose which player you are seeing the stat of press 1-4
-
 ### spawn.dll
 
 type a number/card name than;hold right control and hit enter to change map by id or hold left control and hit enter to spawn cards even in online
