@@ -55,4 +55,4 @@ destroys the part of the map you shoot at
 
 **[2v2](https://github.com/olavim/RoundsWithFriends/releases)**
 
-**[FFA](https://github.com/RoGreat/FFAMod/releases)**
+**[FFA](https://github.com/RoGreat/FFAMod)**
