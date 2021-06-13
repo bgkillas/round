@@ -53,7 +53,4 @@ destroys the part of the map you shoot at
 
 **[other server](https://discord.gg/mGfsTvc53v)**
 
-**[2v2](https://github.com/olavim/RoundsWithFriends/releases)**
-
-**[FFA](https://github.com/RoGreat/FFAMod/releases)**
-(read the **[readme](https://github.com/RoGreat/FFAMod/blob/master/README.md)**)
+**[2v2/ffa](https://github.com/olavim/RoundsWithFriends/releases)**
