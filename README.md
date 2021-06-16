@@ -29,7 +29,7 @@ shows stats in multiplication form and your current value of said stat
 
 **default: on**
 
-damage numbers
+damage numbers and hp bars
 
 ### spawn.dll
 
